@@ -1,0 +1,5 @@
+name: Deploy ADF ARM template to prod
+on: [push]
+
+jobs:
+  build:

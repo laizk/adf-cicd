@@ -1,5 +1,5 @@
 {
-	"name": "test",
+	"name": "adf_ds_blob_in_test",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "adf_ls_sa",

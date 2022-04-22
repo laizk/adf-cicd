@@ -1,0 +1,5 @@
+name: Deploy Azure Infrastructure
+on: [push]
+
+jobs:
+  build:
